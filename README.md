@@ -59,3 +59,7 @@ NEXT_PUBLIC_BASE_PATH=/Notion npm run build
 - React 19 / TypeScript
 - Tailwind CSS v4
 - LocalStorage(永続化)
+
+## 開発者向けドキュメント
+
+アーキテクチャ・データモデル・コンポーネント構成・拡張ガイドは [docs/](docs/README.md) を参照してください。
